@@ -1,0 +1,15 @@
+tile.luckyBlock.name=幸運方塊
+item.luckyBlock.luck=幸運值
+item.luckyBlock.customDrop=有自定義結果
+
+item.luckySword.name=幸運劍
+item.luckyBow.name=幸運弓
+item.luckyPotion.name=幸運藥水
+
+commands.setluckyblock.usage=/setluckyblock <x> <y> <z> [幸運值] [自定義結果]
+commands.setluckyblock.success=幸運方塊放置成功
+commands.setluckyblock.failed=幸運方塊放置失敗
+commands.setluckyblock.outOfWorld=無法在這個世界外放置幸運方塊
+commands.setluckyblock.noChange=幸运方块不可以放置
+commands.giveluckyblock.usage=/giveluckyblock <玩家> [數量] [幸運值] [自定義結果]
+commands.giveluckyblock.success=將 %s 個 %d 給予 %s
