@@ -1,14 +1,14 @@
 {
     "block.lucky.lucky_block": "幸運方塊",
     "item.lucky.lucky_block.luck": "幸運值",
-    "item.lucky.lucky_block.customDrop": "有自定義掉落物",
-
+    "item.lucky.lucky_block.customDrop": "有自定義結果",
+ 
     "item.lucky.lucky_sword": "幸運劍",
     "item.lucky.lucky_bow": "幸運弓",
     "item.lucky.lucky_potion": "幸運藥水",
-
-    "block.lucky.lucky_block.veryLucky": "非常幸運的方塊",
-    "block.lucky.lucky_block.unlucky": "不幸運的方塊",
-    "item.lucky.lucky_potion.veryLucky": "非常幸運的藥水",
-    "item.lucky.lucky_potion.unlucky": "不幸運的藥水"
+ 
+    "block.lucky.lucky_block.veryLucky": "超级幸運方塊",
+    "block.lucky.lucky_block.unlucky": "厄運方塊",
+    "item.lucky.lucky_potion.veryLucky": "超级幸運藥水",
+    "item.lucky.lucky_potion.unlucky": "厄運藥水"
 }
